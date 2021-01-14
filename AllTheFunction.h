@@ -29,7 +29,7 @@ atom[118];
 
 extern void table(int atomicNumber)
 {
-extern int i;
+
 
 strcpy(atom[0].name,"HYDROGEN");
 
@@ -1236,9 +1236,9 @@ void Print_All_Elemnts(){
 
 void _SingleElement(void)
 {
-    extern int j,i;
+    extern int j;
 
-    char ele[20];
+  fflush(stdin);
 
 
 
@@ -1266,7 +1266,10 @@ readDataAgain:
         system("cls");
         gotoxy(40,12);
         setcolor(4);
-        printf("No Element Exist At This Atomic Number ");
+        printf("No Element Exist At This Atomic Number (1 To 118 Only)");
+        gotoxy(40,14);
+         setcolor(78);
+        printf(" Press Any Key To Go Back ");
         getch();
         system("cls");
         goto readDataAgain;
