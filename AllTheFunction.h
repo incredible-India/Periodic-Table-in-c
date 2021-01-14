@@ -3,7 +3,7 @@ void gotoxy(int,int);
 void mhLine(int,int,int,char);
 void mvLine(int,int,int,char);
 void setcolor(int);
-void _SeeHistory(void);//see the history using File Handling
+void _SeeHistory(char);//see the history using File Handling
 
 
 //definition of the functions
@@ -35,10 +35,13 @@ gotoxy(35,14);
 setcolor(3);
 printf("3 : HISTORY OF PERIODIC TABLE");
 
-
 gotoxy(35,16);
+setcolor(6);
+printf("4 : ABOUT OF PERIODIC TABLE");
+
+gotoxy(35,18);
 setcolor(4);
-printf("4 : EXIT");
+printf("5 : EXIT");
 
 
  againReadit:
@@ -56,9 +59,17 @@ if(urChoice == '1')
 {
 
 system("cls");
-_SeeHistory();
 
-}else if( urChoice == '4')
+_SeeHistory('3');
+
+}
+else if( urChoice == '4')
+{
+
+system("cls");
+_SeeHistory('4');
+
+}else if( urChoice == '5')
 {
     system("cls");
     gotoxy(40,12);
@@ -76,21 +87,37 @@ else
 }
 
 //see the history using File Handling
-void _SeeHistory(void)
+void _SeeHistory(char whichToBeShown)
 {
     FILE *openData;
 
     char dataFromTxtFile;
 
-    SetConsoleTitle("History Of Periodic Table");
+    if(whichToBeShown == '3')
+    {    SetConsoleTitle("History Of Periodic Table");
+         openData =fopen("history.txt","r"); //open in read mode it returns null if file not found..
+         gotoxy(25,2);
+        setcolor(2);
+        printf("History Of Periodic Table");
+        mhLine(22,3,30,'-');
+    }
 
-    openData =fopen("history.txt","r"); //open in read mode it returns null if file not found..
+  if(whichToBeShown == '4')
+    {    SetConsoleTitle("About Periodic Table");
+         openData =fopen("about.txt","r"); //open in read mode it returns null if file not found..
+         gotoxy(25,2);
+        setcolor(2);
+        printf("About Periodic Table");
+        mhLine(22,3,30,'-');
+    }
+
+
 
     if(openData == NULL)
     {
         setcolor(3);
         gotoxy(40,12);
-        printf(" ooppps !!! SomeThing Went Wrong ! Please Try Again");
+        printf(" ooppps !!! SomeThing Went Wrong ! Press Any Key To  Go Back");
         getch();
         system("cls");
         menu();
@@ -98,10 +125,7 @@ void _SeeHistory(void)
     }
     else{
 
-        gotoxy(25,2);
-        setcolor(2);
-        printf("History Of Periodic Table");
-        mhLine(22,3,30,'-');
+
         gotoxy(2,6);
         setcolor(3);
         while(!feof(openData))
