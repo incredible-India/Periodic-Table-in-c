@@ -1,0 +1,42 @@
+The Periodic Table is for many the symbol of Chemistry. It is a single image that contains all of the known elements in the universe combined into an easily readable table. There are 
+many patterns present in the table as well. All of the elements seem to fit together and connect to form a readable table and in turn the image of chemistry. The idea of elements first 
+came about in 3000 B.C. The great Greek philosopher Aristotle conceived an idea that everything on earth was made up of these elements. In ancient times, elements like gold and silver 
+were readily accessible, however, the elements that Aristotle chose were Earth, Water, Fire, and Air.
+
+In 1649 the idea of elements took a huge step when Hennig Brand was the first to discover a new element: Phosphorous. Brand was an alchemist in search of the Philosopher's Stone, or an 
+object that would turn any ordinary metal into gold. In his search he tried everything, including distilling human urine. When that experiment was carried out Brand found a glowing white
+ rock. This was the new element he would call Phosphorous. The alchemists and scientists of the enlightenment period added incredible amounts of knowledge to the ideas about elements.
+ In 1869 there were already 63 elements that had been discovered. With each new element that was found, scientists began to realize that there were patterns developing and some started to
+ put the elements into a table.
+
+Scientists like John Newlands and Alexandre-Emile Béguyer de Chancourtois formed their own versions of periodic tables. These versions were relatively simple though and were also somewhat 
+obscure and hard to read. The scientist who brought it all together was Dmitri Mendeleev (1834 to 1907). Mendeleev was a Russian born chemist and the first to publish a modern version of 
+the periodic table. His table ordered the elements by atomic weights (molar masses). When the elements were ordered by their atomic weights, they exhibited similar chemical properties. 
+The table that Mendeleev compiled was so good that he was able to predict elements that were not even known to him at the time. These elements included germanium, gallium, and scandium.
+ There were some pitfalls to the table though. Since not all of the elements had been discovered at the time of Mendeleev's publishing, he left out important elements like the noble gases.
+ After Mendeleev's publishing future scientists contributed to adding in the elements in their proper places. Sir William Ramsay added in the noble gases, and Henry Mosley discovered a way
+ to quantitatively find the atomic number of an element and changed the order around of Mendeleev's table to be organized by atomic number. Finally, in 1945 the Manhattan Project yielded 
+the discovery of many new radioactive elements. Glenn T. Seaborg suggested a change to the table in the form of an addition of the actinide and lanthanide series at the bottom of the table.
+ This idea came with the discovery of Americium and Curium and their unique properties. The change was not accepted at first, but is now included in all periodic tables.
+
+Elements which belong to families we have already discussed are indicated by shading around their symbols. The second, third, and forth elements on the list (He, Li, and Be) are a noble
+ gas, an alkali metal, and an alkaline-earth metal, respectively. Exactly the same sequence is repeated eight elements later (Ne, Na, and Mg), but this time a halogen (F) precedes the 
+noble gas. If a list were made of all elements, we would find the sequence halogen, noble gas, alkali metal, and alkaline-earth metal several more times.
+
+Dmitri Ivanovich Mendeleev proposed the periodic law behind his periodic table compiling. This law states that when the elements are listed in order of increasing atomic weights, 
+their properties vary periodically. That is, similar elements do not have similar atomic weights. Rather, as we go down a list of elements in order of atomic weights, corresponding 
+properties are observed at regular intervals. To emphasize this periodic repetition of similar properties, Mendeleev arranged the symbols and atomic weights of the elements in the table 
+shown below. Each vertical column of this periodic table contains a group or family of related elements. The alkali metals are in group I (Gruppe I), alkaline earths in group II,
+ chalcogens in group VI, and halogens in group VII. Mendeleev was not quite sure where to put the coinage metals, and so they appear twice. Each time, however, copper, silver, and 
+gold are arranged in a vertical column. The noble gases were discovered nearly a quarter century after Mendeleev’s first periodic table was published, but they, too, fit the periodic 
+arrangement. In constructing his table, Mendeleev found that sometimes there were not enough elements to fill all the available spaces in each horizontal row or period. When this was 
+true, he assumed that eventually someone would discover the element or elements needed to complete a period. Mendeleev therefore left blank spaces for undiscovered elements and predicted 
+their properties by averaging the characteristics of other elements in the same group.
+
+Mendeleev used the name ''eka''boron because the blank space into which the element should fit was ''below'' boron in his periodic table.
+
+† The modern value of the atomic weight of scandium is 44.96.
+
+The modern periodic table differs in some ways from Mendeleev’s original version. It contains more than 40 additional elements, and its rows are longer instead of being squeezed under one another in staggered columns. For example, Mendeleev’s fourth and fifth rows are both contained in the fourth period of the modern table. This ends up placing gallium, not scandium underneath boron in the periodic table. This rearrangement is due to theory on the electronic structure of atoms, in particular ideas about orbitals and the relation of electronic configuration to the periodic table. The extremely important idea of vertical groups of related elements is still retained, as are Mendeleev’s group numbers. The latter appear as roman numerals at the top of each column in the modern table.
+
+Mendeleev was an extraordinary chemist that was able to compile the greatest chemical instrument of all time. He was not alone in compiling the elements, and many other great chemists contributed too. The idea of elements began over 5,000 years ago and started to finally take shape a mere 200 years ago with Mendeleev's periodic table. Yet, it was not the end of the formation of the periodic table. It has changed over time, and with continue to transform as more and more elements are discovered.
