@@ -18,6 +18,8 @@ int i,j;
 int main ()
 {
    void (*p)(void);
+
+
    p=menu;
    p();//it shows the menu
 

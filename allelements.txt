@@ -1,0 +1,182 @@
+List
+List of chemical elements
+Atomic number	Symbol	Element	Etymology[2][3]	Group	Period	Atomic weight[4][5]	Density	Melting point[6]	Boiling point	Specific heat capacity	Electro­negativity	Abundance in Earth's crust[I]
+(Da)	(
+g
+/
+cm3
+)	(K)	(K)	(
+J
+/
+g · K
+)		(
+mg
+/
+kg
+)
+ 
+1	H	Hydrogen	Greek elements hydro- and -gen, 'water-forming'	1	1	1	0.00008988	14.01	20.28	14.304	2.20	1400
+2	He	Helium	Greek hḗlios, 'sun'	18	1	4.002602(2)	0.0001785	—[II]	4.22	5.193	–	0.008
+3	Li	Lithium	Greek líthos, 'stone'	1	2	6.94[III][IV][V][VI][VII]	0.534	453.69	1560	3.582	0.98	20
+4	Be	Beryllium	Beryl, a mineral (ultimately from the name of Belur in southern India[citation needed])	2	2	9.0121831(5)	1.85	1560	2742	1.825	1.57	2.8
+5	B	Boron	Borax, a mineral (from Arabic bawraq)	13	2	10.81[III][IV][V][VII]	2.34	2349	4200	1.026	2.04	10
+6	C	Carbon	Latin carbo, 'coal'	14	2	12.011[III][V][VII]	2.267	>4000 (pressure dependent)	4300	0.709	2.55	200
+7	N	Nitrogen	Greek nítron and -gen, 'niter-forming'	15	2	14.007[III][V][VII]	0.0012506	63.15	77.36	1.04	3.04	19
+8	O	Oxygen	Greek oxy- and -gen, 'acid-forming'	16	2	15.999[III][V][VII]	0.001429	54.36	90.20	0.918	3.44	461000
+9	F	Fluorine	Latin fluere, 'to flow'	17	2	18.998403163(6)	0.001696	53.53	85.03	0.824	3.98	585
+10	Ne	Neon	Greek néon, 'new'	18	2	20.1797(6)[III][IV]	0.0008999	24.56	27.07	1.03	–	0.005
+11	Na	Sodium	English (from medieval Latin) soda (the symbol Na is derived from New Latin natrium, coined from German Natron, 'natron')	1	3	22.98976928(2)	0.971	370.87	1156	1.228	0.93	23600
+12	Mg	Magnesium	Magnesia, a district of Eastern Thessaly in Greece	2	3	24.305[VII]	1.738	923	1363	1.023	1.31	23300
+13	Al	Aluminium	alumina, from Latin alumen (gen. aluminis), 'bitter salt, alum'	13	3	26.9815384(3)	2.698	933.47	2792	0.897	1.61	82300
+14	Si	Silicon	Latin silex, 'flint' (originally silicium)	14	3	28.085[V][VII]	2.3296	1687	3538	0.705	1.9	282000
+15	P	Phosphorus	Greek phōsphóros, 'light-bearing'	15	3	30.973761998(5)	1.82	317.30	550	0.769	2.19	1050
+16	S	Sulfur	Latin sulphur, 'brimstone'	16	3	32.06[III][V][VII]	2.067	388.36	717.87	0.71	2.58	350
+17	Cl	Chlorine	Greek chlōrós, 'greenish yellow'	17	3	35.45[III][IV][V][VII]	0.003214	171.6	239.11	0.479	3.16	145
+18	Ar	Argon	Greek argós, 'idle' (because of its inertness)	18	3	39.95[III][V][VII]	0.0017837	83.80	87.30	0.52	–	3.5
+19	K	Potassium	New Latin potassa, 'potash', iself from pot and ash (the symbol K is derived from Latin kalium)	1	4	39.0983(1)	0.862	336.53	1032	0.757	0.82	20900
+20	Ca	Calcium	Latin calx, 'lime'	2	4	40.078(4)[III]	1.54	1115	1757	0.647	1	41500
+21	Sc	Scandium	Latin Scandia, 'Scandinavia'	3	4	44.955908(5)	2.989	1814	3109	0.568	1.36	22
+22	Ti	Titanium	Titans, the sons of the Earth goddess of Greek mythology	4	4	47.867(1)	4.54	1941	3560	0.523	1.54	5650
+23	V	Vanadium	Vanadis, an Old Norse name for the Scandinavian goddess Freyja	5	4	50.9415(1)	6.11	2183	3680	0.489	1.63	120
+24	Cr	Chromium	Greek chróma, 'colour'	6	4	51.9961(6)	7.15	2180	2944	0.449	1.66	102
+25	Mn	Manganese	Corrupted from magnesia negra; see Magnesium	7	4	54.938043(2)	7.44	1519	2334	0.479	1.55	950
+26	Fe	Iron	English word (the symbol Fe is derived from Latin ferrum)	8	4	55.845(2)	7.874	1811	3134	0.449	1.83	56300
+27	Co	Cobalt	German Kobold, 'goblin'	9	4	58.933194(3)	8.86	1768	3200	0.421	1.88	25
+28	Ni	Nickel	Nickel, a mischievous sprite of German miner mythology	10	4	58.6934(4)	8.912	1728	3186	0.444	1.91	84
+29	Cu	Copper	English word, from Latin cuprum, from Ancient Greek Kýpros 'Cyprus'	11	4	63.546(3)[V]	8.96	1357.77	2835	0.385	1.9	60
+30	Zn	Zinc	Most likely from German Zinke, 'prong' or 'tooth', though some suggest Persian sang, 'stone'	12	4	65.38(2)	7.134	692.88	1180	0.388	1.65	70
+31	Ga	Gallium	Latin Gallia, 'France'	13	4	69.723(1)	5.907	302.9146	2673	0.371	1.81	19
+32	Ge	Germanium	Latin Germania, 'Germany'	14	4	72.630(8)	5.323	1211.40	3106	0.32	2.01	1.5
+33	As	Arsenic	French arsenic, from Greek arsenikón 'yellow arsenic' (influenced by arsenikós, 'masculine' or 'virile'), from a West Asian wanderword ultimately from Old Iranian *zarniya-ka, 'golden'	15	4	74.921595(6)	5.776	1090[VIII]	887	0.329	2.18	1.8
+34	Se	Selenium	Greek selḗnē, 'moon'	16	4	78.971(8)[V]	4.809	453	958	0.321	2.55	0.05
+35	Br	Bromine	Greek brômos, 'stench'	17	4	79.904[VII]	3.122	265.8	332.0	0.474	2.96	2.4
+36	Kr	Krypton	Greek kryptós, 'hidden'	18	4	83.798(2)[III][IV]	0.003733	115.79	119.93	0.248	3	1×10−4
+37	Rb	Rubidium	Latin rubidus, 'deep red'	1	5	85.4678(3)[III]	1.532	312.46	961	0.363	0.82	90
+38	Sr	Strontium	Strontian, a village in Scotland, where it was found	2	5	87.62(1)[III][V]	2.64	1050	1655	0.301	0.95	370
+39	Y	Yttrium	Ytterby, Sweden, where it was found	3	5	88.90584(1)	4.469	1799	3609	0.298	1.22	33
+40	Zr	Zirconium	Zircon, a mineral	4	5	91.224(2)[III]	6.506	2128	4682	0.278	1.33	165
+41	Nb	Niobium	Niobe, daughter of king Tantalus from Greek mythology	5	5	92.90637(1)	8.57	2750	5017	0.265	1.6	20
+42	Mo	Molybdenum	Greek molýbdaina, 'piece of lead', from mólybdos, 'lead', due to confusion with lead ore galena (PbS)	6	5	95.95(1)[III]	10.22	2896	4912	0.251	2.16	1.2
+43	Tc	Technetium	Greek tekhnētós, 'artificial'	7	5	[98][IX]	11.5	2430	4538	–	1.9	~ 3×10−9[X]
+44	Ru	Ruthenium	New Latin Ruthenia, 'Russia'	8	5	101.07(2)[III]	12.37	2607	4423	0.238	2.2	0.001
+45	Rh	Rhodium	Greek rhodóeis, 'rose-coloured', from rhódon, 'rose'	9	5	102.90549(2)	12.41	2237	3968	0.243	2.28	0.001
+46	Pd	Palladium	Asteroid Pallas, considered a planet at the time	10	5	106.42(1)[III]	12.02	1828.05	3236	0.244	2.2	0.015
+47	Ag	Silver	English word (The symbol is derived from Latin argentum)	11	5	107.8682(2)[III]	10.501	1234.93	2435	0.235	1.93	0.075
+48	Cd	Cadmium	New Latin cadmia, from King Kadmos	12	5	112.414(4)[III]	8.69	594.22	1040	0.232	1.69	0.159
+49	In	Indium	Latin indicum, 'indigo' (colour found in its spectrum)	13	5	114.818(1)	7.31	429.75	2345	0.233	1.78	0.25
+50	Sn	Tin	English word (The symbol is derived from Latin stannum)	14	5	118.710(7)[III]	7.287	505.08	2875	0.228	1.96	2.3
+51	Sb	Antimony	Latin antimonium, the origin of which is uncertain: folk etymologies suggest it is derived from Greek antí ('against') + mónos ('alone'), or Old French anti-moine, 'Monk's bane', but it could plausibly be from or related to Arabic ʾiṯmid, 'antimony', reformatted as a Latin word. (The symbol is derived from Latin stibium 'stibnite'.)	15	5	121.760(1)[III]	6.685	903.78	1860	0.207	2.05	0.2
+52	Te	Tellurium	Latin tellus, 'the ground, Earth'	16	5	127.60(3)[III]	6.232	722.66	1261	0.202	2.1	0.001
+53	I	Iodine	French iode, from Greek ioeidḗs, 'violet'	17	5	126.90447(3)	4.93	386.85	457.4	0.214	2.66	0.45
+54	Xe	Xenon	Greek xénon, neuter form of xénos 'strange'	18	5	131.293(6)[III][IV]	0.005887	161.4	165.03	0.158	2.6	3×10−5
+55	Cs	Caesium	Latin caesius, 'sky-blue'	1	6	132.90545196(6)	1.873	301.59	944	0.242	0.79	3
+56	Ba	Barium	Greek barýs, 'heavy'	2	6	137.327(7)	3.594	1000	2170	0.204	0.89	425
+57	La	Lanthanum	Greek lanthánein, 'to lie hidden'	3?[XI]	6	138.90547(7)[III]	6.145	1193	3737	0.195	1.1	39
+58	Ce	Cerium	Dwarf planet Ceres, considered a planet at the time it was discovered		6	140.116(1)[III]	6.77	1068	3716	0.192	1.12	66.5
+59	Pr	Praseodymium	Greek prásios dídymos, 'green twin'		6	140.90766(1)	6.773	1208	3793	0.193	1.13	9.2
+60	Nd	Neodymium	Greek néos dídymos, 'new twin'		6	144.242(3)[III]	7.007	1297	3347	0.19	1.14	41.5
+61	Pm	Promethium	Prometheus of Greek mythology		6	[145][IX]	7.26	1315	3273	–	1.13	2×10−19[X]
+62	Sm	Samarium	Samarskite, a mineral named after Colonel Vasili Samarsky-Bykhovets, Russian mine official		6	150.36(2)[III]	7.52	1345	2067	0.197	1.17	7.05
+63	Eu	Europium	Europe		6	151.964(1)[III]	5.243	1099	1802	0.182	1.2	2
+64	Gd	Gadolinium	Gadolinite, a mineral named after Johan Gadolin, Finnish chemist, physicist and mineralogist		6	157.25(3)[III]	7.895	1585	3546	0.236	1.2	6.2
+65	Tb	Terbium	Ytterby, Sweden, where it was found		6	158.925354(8)	8.229	1629	3503	0.182	1.2	1.2
+66	Dy	Dysprosium	Greek dysprósitos, 'hard to get'		6	162.500(1)[III]	8.55	1680	2840	0.17	1.22	5.2
+67	Ho	Holmium	New Latin Holmia, 'Stockholm'		6	164.930328(7)	8.795	1734	2993	0.165	1.23	1.3
+68	Er	Erbium	Ytterby, Sweden, where it was found		6	167.259(3)[III]	9.066	1802	3141	0.168	1.24	3.5
+69	Tm	Thulium	Thule, the ancient name for an unclear northern location		6	168.934218(6)	9.321	1818	2223	0.16	1.25	0.52
+70	Yb	Ytterbium	Ytterby, Sweden, where it was found		6	173.045(10)[III]	6.965	1097	1469	0.155	1.1	3.2
+71	Lu	Lutetium	Latin Lutetia, 'Paris'	3?[XI]	6	174.9668(1)[III]	9.84	1925	3675	0.154	1.27	0.8
+72	Hf	Hafnium	New Latin Hafnia, 'Copenhagen' (from Danish havn, 'harbour')	4	6	178.49(2)	13.31	2506	4876	0.144	1.3	3
+73	Ta	Tantalum	King Tantalus, father of Niobe from Greek mythology	5	6	180.94788(2)	16.654	3290	5731	0.14	1.5	2
+74	W	Tungsten	Swedish tung sten, 'heavy stone' (The symbol W is from Wolfram, a name used for the element in many languages, originally from Middle High German wolf-rahm (wolf's foam) describing the mineral wolframite)[7]	6	6	183.84(1)	19.25	3695	5828	0.132	2.36	1.3
+75	Re	Rhenium	Latin Rhenus, 'the Rhine'	7	6	186.207(1)	21.02	3459	5869	0.137	1.9	7×10−4
+76	Os	Osmium	Greek osmḗ, 'smell'	8	6	190.23(3)[III]	22.59	3306	5285	0.13	2.2	0.002
+77	Ir	Iridium	Iris, the Greek goddess of the rainbow	9	6	192.217(2)	22.56	2719	4701	0.131	2.2	0.001
+78	Pt	Platinum	Spanish platina, 'little silver', from plata 'silver'	10	6	195.084(9)	21.46	2041.4	4098	0.133	2.28	0.005
+79	Au	Gold	English word (the symbol Au is derived from Latin aurum)	11	6	196.966570(4)	19.282	1337.33	3129	0.129	2.54	0.004
+80	Hg	Mercury	Mercury, Roman god of commerce, communication, and luck, known for his speed and mobility (the symbol Hg derives from the element's Latin name hydrargyrum, from Greek hydrárgyros, 'water-silver')	12	6	200.592(3)	13.5336	234.43	629.88	0.14	2	0.085
+81	Tl	Thallium	Greek thallós, 'green shoot or twig'	13	6	204.38[VII]	11.85	577	1746	0.129	1.62	0.85
+82	Pb	Lead	English word (the symbol Pb is derived from Latin plumbum)	14	6	207.2(1)[III][V]	11.342	600.61	2022	0.129	1.87	14
+83	Bi	Bismuth	German Wismut, from weiß Masse 'white mass', unless from Arabic	15	6	208.98040(1)[IX]	9.807	544.7	1837	0.122	2.02	0.009
+84	Po	Polonium	Latin Polonia, 'Poland' (the home country of Marie Curie)	16	6	[209][IX]	9.32	527	1235	–	2.0	2×10−10[X]
+85	At	Astatine	Greek ástatos, 'unstable'	17	6	[210][IX]	7	575	610	–	2.2	3×10−20[X]
+86	Rn	Radon	Radium emanation, originally the name of the isotope Radon-222.	18	6	[222][IX]	0.00973	202	211.3	0.094	2.2	4×10−13[X]
+87	Fr	Francium	France	1	7	[223][IX]	1.87	281	890	–	0.7	~ 1×10−18[X]
+88	Ra	Radium	French radium, from Latin radius, 'ray'	2	7	[226][IX]	5.5	973	2010	0.094	0.9	9×10−7[X]
+89	Ac	Actinium	Greek aktís, 'ray'	3?[XI]	7	[227][IX]	10.07	1323	3471	0.12	1.1	5.5×10−10[X]
+90	Th	Thorium	Thor, the Scandinavian god of thunder		7	232.0377(4)[IX][III]	11.72	2115	5061	0.113	1.3	9.6
+91	Pa	Protactinium	Proto- (from Greek prôtos, 'first, before') + actinium, since actinium is produced through the radioactive decay of protactinium		7	231.03588(1)[IX]	15.37	1841	4300	–	1.5	1.4×10−6[X]
+92	U	Uranium	Uranus, the seventh planet in the Solar System		7	238.02891(3)[IX]	18.95	1405.3	4404	0.116	1.38	2.7
+93	Np	Neptunium	Neptune, the eighth planet in the Solar System		7	[237][IX]	20.45	917	4273	–	1.36	≤ 3×10−12[X]
+94	Pu	Plutonium	Dwarf planet Pluto, considered the ninth planet in the Solar System at the time it was discovered		7	[244][IX]	19.85[XII]	912.5	3501	–	1.28	≤ 3×10−11[X]
+95	Am	Americium	The Americas, as the element was first synthesised on the continent, by analogy with europium		7	[243][IX]	13.69	1449	2880	–	1.13	0[XIII]
+96	Cm	Curium	Pierre Curie and Marie Curie, French physicists and chemists		7	[247][IX]	13.51	1613	3383	–	1.28	0[XIII]
+97	Bk	Berkelium	Berkeley, California, where the element was first synthesised, by analogy with terbium		7	[247][IX]	14.79	1259	2900	–	1.3	0[XIII]
+98	Cf	Californium	California, where the element was first synthesised		7	[251][IX]	15.1	1173	(1743)[XIV]	–	1.3	0[XIII]
+99	Es	Einsteinium	Albert Einstein, German physicist		7	[252][IX]	8.84	1133	(1269)[XIV]	–	1.3	0[XIII]
+100	Fm	Fermium	Enrico Fermi, Italian physicist		7	[257][IX]	(9.7)[XIV]	(1125)[XIV]	–	–	1.3	0[XIII]
+101	Md	Mendelevium	Dmitri Mendeleev, Russian chemist and inventor who proposed the periodic table		7	[258][IX]	(10.3)[XIV]	(1100)[XIV]	–	–	1.3	0[XIII]
+102	No	Nobelium	Alfred Nobel, Swedish chemist and engineer		7	[259][IX]	(9.9)[XIV]	(1100)[XIV]	–	–	1.3	0[XIII]
+103	Lr	Lawrencium	Ernest Lawrence, American physicist	3?[XI]	7	[266][IX]	(15.6)[XIV]	(1900)[XIV]	–	–	1.3	0[XIII]
+104	Rf	Rutherfordium	Ernest Rutherford, chemist and physicist from New Zealand	4	7	[267][IX]	(23.2)[XIV]	(2400)[XIV]	(5800)[XIV]	–	–	0[XIII]
+105	Db	Dubnium	Dubna, Russia, where the Joint Institute for Nuclear Research is located	5	7	[268][IX]	(29.3)[XIV]	–	–	–	–	0[XIII]
+106	Sg	Seaborgium	Glenn T. Seaborg, American chemist	6	7	[269][IX]	(35.0)[XIV]	–	–	–	–	0[XIII]
+107	Bh	Bohrium	Niels Bohr, Danish physicist	7	7	[270][IX]	(37.1)[XIV]	–	–	–	–	0[XIII]
+108	Hs	Hassium	New Latin Hassia, 'Hesse' (a state in Germany)	8	7	[270][IX]	(40.7)[XIV]	–	–	–	–	0[XIII]
+109	Mt	Meitnerium	Lise Meitner, Austrian physicist	9	7	[278][IX]	(37.4)[XIV]	–	–	–	–	0[XIII]
+110	Ds	Darmstadtium	Darmstadt, Germany, where the element was first synthesised	10	7	[281][IX]	(34.8)[XIV]	–	–	–	–	0[XIII]
+111	Rg	Roentgenium	Wilhelm Conrad Röntgen, German physicist	11	7	[282][IX]	(28.7)[XIV]	–	–	–	–	0[XIII]
+112	Cn	Copernicium	Nicolaus Copernicus, Polish astronomer	12	7	[285][IX]	(14.0)[XIV]	(283)[XV]	(340)[XV]	–	–	0[XIII]
+113	Nh	Nihonium	Japanese Nihon, 'Japan' (where the element was first synthesised)	13	7	[286][IX]	(16)[XIV]	(700)[XIV]	(1400)[XIV]	–	–	0[XIII]
+114	Fl	Flerovium	Flerov Laboratory of Nuclear Reactions, part of JINR, where the element was synthesised; itself named after Georgy Flyorov, Russian physicist	14	7	[289][IX]	(14)[XIV]	–	~210	–	–	0[XIII]
+115	Mc	Moscovium	Moscow Oblast, Russia, where the element was first synthesised	15	7	[290][IX]	(13.5)[XIV]	(700)[XIV]	(1400)[XIV]	–	–	0[XIII]
+116	Lv	Livermorium	Lawrence Livermore National Laboratory in Livermore, California, which collaborated with JINR on its synthesis	16	7	[293][IX]	(12.9)[XIV]	(700)[XIV]	(1100)[XIV]	–	–	0[XIII]
+117	Ts	Tennessine	Tennessee, United States (where Oak Ridge National Laboratory is located)	17	7	[294][IX]	(7.2)[XIV]	(700)[XIV]	(883)[XIV]	–	–	0[XIII]
+118	Og	Oganesson	Yuri Oganessian, Russian-born Armenian physicist	18	7	[294][IX]	(5.0)[XIV][XVI]	(320)[XIV]	(~350)[XIV][XVII]	–	–	0[XIII]
+Notes
+
+ Unless otherwise indicated, elements are primordial – they occur naturally, and not through decay.
+ Helium does not solidify at a pressure of one atmosphere. Helium can only solidify at pressures above 25 atmospheres, which corresponds to a melting point of 0.95 K.
+ The isotopic composition of this element varies in some geological specimens, and the variation may exceed the uncertainty stated in the table.
+ The isotopic composition of the element can vary in commercial materials, which can cause the atomic weight to deviate significantly from the given value.
+ The isotopic composition varies in terrestrial material such that a more precise atomic weight can not be given.
+ The atomic weight of commercial lithium can vary between 6.939 and 6.996—analysis of the specific material is necessary to find a more accurate value.
+ The value listed is the conventional atomic-weight value suitable for trade and commerce. The actual value may differ depending on the isotopic composition of the sample. Since 2009, IUPAC provides the standard atomic-weight values for these elements using the interval notation. The corresponding standard atomic weights are:
+Hydrogen: [1.00784, 1.00811]
+Lithium: [6.938, 6.997]
+Boron: [10.806, 10.821]
+Carbon: [12.0096, 12.0116]
+Nitrogen: [14.00643, 14.00728]
+Oxygen: [15.99903, 15.99977]
+Magnesium: [24.304, 24.307]
+Silicon: [28.084, 28.086]
+Sulfur: [32.059, 32.076]
+Chlorine: [35.446, 35.457]
+Argon: [39.792, 39.963]
+Bromine: [79.901, 79.907]
+Thallium: [204.382, 204.385]
+ This element sublimes at one atmosphere of pressure.
+ The element does not have any stable nuclides, and a value in brackets, e.g. [209], indicates the mass number of the longest-lived isotope of the element. However, four such elements, bismuth, thorium, protactinium, and uranium, have characteristic terrestrial isotopic compositions, and thus their standard atomic weights are given.
+ This element is transient – it occurs only through decay (and in the plutonium, also in traces deposited from supernovae onto Earth).
+ The membership of group 3 is contentious. After scandium (Sc) and yttrium (Y), it is disputed in the literature as to whether the group continues to lanthanum (La) and actinium (Ac), or to lutetium (Lu) and lawrencium (Lr). In 2015 a IUPAC project was started to decide this issue.
+ For plutonium-239.[8]
+ This element is synthetic – the transuranic elements 95 and above do not occur naturally, but they can all be produced artificially.
+ The value has not been precisely measured, usually because of the element's short half-life; the value given in parentheses is a prediction.
+ With error bars: 283±11 K and 340±10 K respectively. The best experimental value for the boiling point of copernicium is 357+112
+−108 K.
+ This predicted value is for solid oganesson, not gaseous oganesson.
+ With error bars: 350±30 K.
+Background color shows category:
+
+Alkali metal	Alkaline earth metal	Lan­thanide	Actinide	Transition metal	Other metal	Metalloid	Other nonmetal	Halogen	Noble gas
+See also
+List of people whose names are used in chemical element names
+List of places used in the names of chemical elements
+List of chemical element name etymologies
+References
+ IUPAC, Compendium of Chemical Terminology, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "chemical element". doi:10.1351/goldbook.C01022
+ "Periodic Table – Royal Society of Chemistry". www.rsc.org.
+ "Online Etymology Dictionary". etymonline.com.
+ Wieser, Michael E.; et al. (2013). "Atomic weights of the elements 2011 (IUPAC Technical Report)". Pure Appl. Chemistry. 85 (5): 1047–1078. doi:10.1351/PAC-REP-13-03-02. (for standard atomic weights of elements)
+ Sonzogni, Alejandro. "Interactive Chart of Nuclides". National Nuclear Data Center: Brookhaven National Laboratory. Retrieved 2008-06-06. (for atomic weights of elements with atomic numbers 103–118)
+ Holman, S. W.; Lawrence, R. R.; Barr, L. (1 January 1895). "Melting Points of Aluminum, Silver, Gold, Copper, and Platinum". Proceedings of the American Academy of Arts and Sciences. 31: 218–233. doi:10.2307/20020628. JSTOR 20020628.
